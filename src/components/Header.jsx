@@ -1,21 +1,29 @@
-import React from "react";
-import { Link, NavLink } from "react-router-dom";
-import Logo from "./Logowebsite";
-import Nav from "./Nav";
+// // src/Header.js
 
-export default function Header() {
-  return (
-    <header className="bg-white sticky top-0 z-[20] mx-auto flex w-full items-center justify-between border-b border-gray-500 p-4 position-fixed">
-     <div className="flex items-center">
-      <Logo />
-      
-      <h2 className="text-xl font-bold ml-2 mt-[-0.2in]">Rakshak</h2>
-      </div>
-      <Nav />
-      </header>
-  );
-}
+// import React from 'react';
 
+// const Header = () => {
+//   return (
+//     <header className="bg-gray-500 text-white py-4 px-6 flex items-center justify-between">
+//       <div className="flex items-center">
+//         <img src="/logo.png" alt="TripPey Logo" className="h-8 mr-4" />
+//         <nav>
+//           <ul className="flex space-x-4 font-bold">
+//             <li>Home</li>
+//             <li>Services</li>
+//             <li>About Us</li>
+//             <li>Contact Us</li>
+//             <li>FAQ</li>
+//             <li>Gallery</li>
+//             <li>Reviews</li>
+//           </ul>
+//         </nav>
+//       </div>
+//     </header>
+//   );
+// };
+
+// export default Header;
 
 
 

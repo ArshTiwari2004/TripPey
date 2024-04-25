@@ -70,7 +70,7 @@ const Login = () => {
         //     </form>
         // </div>
         <div className="flex flex-col items-center justify-center absolute inset-0 w-screen h-screen bg-green-100 text-gray-700">
-            <h1 className="font-bold text-3xl">Rakshak Login</h1>
+            <h1 className="font-bold text-3xl">TripPey Login</h1>
             <form onSubmit={(e)=> handleLogin(e)} className="flex flex-col bg-white rounded shadow-lg p-12 mt-12" action="">
                 <label className="font-semibold text-sm" htmlFor="usernameField">Username</label>
                 <input name='email' placeholder="Enter username" className="flex items-center h-12 px-4 w-64 bg-gray-200 mt-2 rounded focus:outline-none focus:ring-2" type="text" />
