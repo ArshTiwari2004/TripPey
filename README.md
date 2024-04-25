@@ -1,6 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Eduhack 2.0 Project -- TripPey 
+## Team: Hack4Impact
+EduHack 2.0 | BVCOE | 26-27th April 2024
 
 Currently, two official plugins are available:
 
