@@ -1,5 +1,3 @@
-// src/pages/Homepage.jsx
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Chooseus from '../components/Chooseus';
@@ -44,15 +42,13 @@ const Homepage = () => {
         <p className="mt-4">
           Already a user? <Link to="/login" className="text-blue-300 hover:underline">Log In</Link>
         </p>
+          
+     
       </div>
 
-      {/* Features Section */}
-      <Chooseus /> {/* Render the Features component below the main content */}
+      <Chooseus /> 
 
-      {/* Brown Background Section */}
-      <div className="h-screen bg-brown"> {/* Add your brown background section here */}
-        {/* Content for the brown background section */}
-      </div>
+      
     </div>
   );
 };
