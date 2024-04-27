@@ -1,6 +1,5 @@
-# Eduhack 2.0 Project -- TripPey 
+# TripPey Project
 ## Team: Hack4Impact
-EduHack 2.0 | BVCOE | 26-27th April 2024
 
 # About TripPey : 
 ## Dive into the world with us  - ease, explore, spend and earn
